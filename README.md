@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F73692&center=true&random=false&width=435&lines=Hi%2C+I'm++Maria+Khan;Always+Learning+New+Things;Passionate+to+become+a+Successful+Developer;Currently+Learning+Advanced+Programming+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73692&center=true&random=false&width=435&lines=Hi%2C+I'm++Maria+Khan;Always+Learning+New+Things;Passionate+to+become+a+Successful+Developer;Currently+Learning+Advanced+Programming+)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m MariaKhan
