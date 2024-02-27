@@ -2,10 +2,10 @@
 
 
 - 👋 Hi, I’m MariaKhan
-- 👀 I have done Master's in Science from Karachi University
+- 🌸 I have done Master's in Science from Karachi University
 - 🌱 I’m currently learning Typescript And Modern Python.
-- 😄 Currently Enrolled in Governor Sindh Initiative for Generative AI, Web3.0 And Metaverse.
--    I'm Hardworking, consistent and Motivated Person.
+- ✨ Currently Enrolled in Governor Sindh Initiative for Generative AI, Web3.0 And Metaverse.
+- 🌼 I'm Hardworking, consistent and Motivated Person.
 
 
 <!---
